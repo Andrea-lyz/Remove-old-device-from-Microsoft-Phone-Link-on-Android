@@ -31,7 +31,9 @@ First, install Shizuku and activate it by following the in-app instructions (not
 Then install rootactivitylauncher; when you launch it for the first time, it will automatically prompt you to activate Shizuku.
 Then, as shown in the picture, search for 
 
-'com.microsoft.appmanager.activity.debug.DebugActivity'
+\`\`\`
+com.microsoft.appmanager.activity.debug.DebugActivity
+\`\`\`
 
 You can open the Debug page without root access.
 ![alt text](image-2.png)
