@@ -1,3 +1,5 @@
+[中文 (简体) ← 点击查看](README.zh-CN.md)
+
 # Remove-old-device-from-Microsoft-Phone-Link-on-Android
 Remove old device from Microsoft Phone Link on Android
 
